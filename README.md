@@ -1,5 +1,7 @@
 # 💎 Diamond Price Predictor
 
+**Live app: https://zainaftab-diamond-price.streamlit.app**
+
 Web app that predicts the price of a diamond from its carat, cut, colour, clarity and size.
 
 - **Model:** Extra Trees regressor (scikit-learn pipeline with imputation, scaling and one-hot encoding)
