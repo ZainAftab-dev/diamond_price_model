@@ -1,0 +1,67 @@
+{
+  "algorithm": "Extra Trees",
+  "cv_mean_rmse": 535.72,
+  "cv_std_rmse": 23.71,
+  "folds": 10,
+  "training_rows": 53794,
+  "ranges": {
+    "carat": [
+      0.2,
+      5.01,
+      0.7
+    ],
+    "depth": [
+      43.0,
+      79.0,
+      61.8
+    ],
+    "table": [
+      43.0,
+      95.0,
+      57.0
+    ],
+    "x": [
+      3.73,
+      10.74,
+      5.7
+    ],
+    "y": [
+      3.68,
+      58.9,
+      5.71
+    ],
+    "z": [
+      1.07,
+      31.8,
+      3.53
+    ]
+  },
+  "categories": {
+    "cut": [
+      "Fair",
+      "Good",
+      "Very Good",
+      "Premium",
+      "Ideal"
+    ],
+    "color": [
+      "J",
+      "I",
+      "H",
+      "G",
+      "F",
+      "E",
+      "D"
+    ],
+    "clarity": [
+      "I1",
+      "SI2",
+      "SI1",
+      "VS2",
+      "VS1",
+      "VVS2",
+      "VVS1",
+      "IF"
+    ]
+  }
+}
